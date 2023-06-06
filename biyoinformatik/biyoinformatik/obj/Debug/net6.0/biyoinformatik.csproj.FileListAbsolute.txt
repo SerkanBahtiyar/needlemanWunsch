@@ -1,0 +1,15 @@
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\bin\Debug\net6.0\biyoinformatik.exe
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\bin\Debug\net6.0\biyoinformatik.deps.json
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\bin\Debug\net6.0\biyoinformatik.runtimeconfig.json
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\bin\Debug\net6.0\biyoinformatik.dll
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\bin\Debug\net6.0\biyoinformatik.pdb
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\obj\Debug\net6.0\biyoinformatik.csproj.AssemblyReference.cache
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\obj\Debug\net6.0\biyoinformatik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\obj\Debug\net6.0\biyoinformatik.AssemblyInfoInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\obj\Debug\net6.0\biyoinformatik.AssemblyInfo.cs
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\obj\Debug\net6.0\biyoinformatik.csproj.CoreCompileInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\obj\Debug\net6.0\biyoinformatik.dll
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\obj\Debug\net6.0\refint\biyoinformatik.dll
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\obj\Debug\net6.0\biyoinformatik.pdb
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\obj\Debug\net6.0\biyoinformatik.genruntimeconfig.cache
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatik\biyoinformatik\obj\Debug\net6.0\ref\biyoinformatik.dll
